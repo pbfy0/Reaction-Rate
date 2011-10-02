@@ -59,10 +59,20 @@ sub doto{
 	my @r = $lf->coefficients();
 	return $r[1];
 }
+sub cash{
+#	my @rns = @_;
+#	return average(@{$nc[3]}[$_[0]..$_[-1]]);
+	
+}
+sub cmoist{
+	my $sm = $nc[3]->[0];
+	return $sm - average(@{$nc[3]}[$_[0]..$_[-1]]);
+}
 my %out = ();
 print ",", join(",", @fn), "\n";
 my @column = ("%ASH", "%MOISTURE", @ns);
-
+my ($tminash, $tmaxash, $tminmoist, $tmaxmoist) = (640, 700, 98, 102);
+my ($timminash, $timmaxash, $timminmoist, $timmaxmoist) = (60, 107, 10, 40);
 foreach my $cfn(@fn){
 #print "$cfn | ";
 @nc = cellsf($cfn);
@@ -72,7 +82,10 @@ foreach(@ns){
 	my $i = 0;
 	my $f = 0;
 	foreach my $c (@{$nc[0]}){
-		next unless(looks_like_number($c));
+		unless(looks_like_number($c)){
+			$i++;
+			next;
+		}
 		if($c > $_-2 && $c < $_+2){
 			$f = 1;
 			push @avg, $i;
@@ -81,10 +94,48 @@ foreach(@ns){
 		}
 		$i++;
 	}
+
+
 #	print "$_: ", doto(@avg), "\n" unless(@avg == 0);
 	my $d = doto(@avg);
 	$column[$k] .= ",$d";
+
+	$k++;
 }
+my $i = 0;
+my $fv = "";
+my @ash = ();
+my @moist = ();
+my ($a, $m) = (0, 0);
+foreach my $c (@{$nc[0]}){
+	my $tim = $nc[1]->[$i];
+	#print "$tim ";
+	unless(looks_like_number($c) && looks_like_number($tim)){
+		$i++;
+		next;
+	}
+	$fv = $i unless($fv);
+#	print "Here ";
+#	my $tim = $nc[1]->[$i];
+	if($c > $tminash && $c < $tmaxash && $tim > $timminash && $tim < $timmaxash && $a != 2){
+		$a = 1;
+		push @ash, $nc[3]->[$i];
+	}elsif($a == 1){
+		$a = 2;
+	}
+	if($c > $tminmoist && $c < $tmaxmoist && $tim > $timminmoist && $tim < $timmaxmoist && $m != 2){
+                       $m = 1;
+                       push @moist, $nc[3]->[$i];
+               }elsif($m == 1){
+                       $m = 2;
+               }
+	$i++;
+}
+$a = average(@ash);
+$m = $nc[3]->[$fv] - average(@moist);
+$column[0] .= ",$a";
+$column[1] .= ",$m";
+@ash = @moist = ();
 }
 print join("\n", @column), "\n";
 sub average{
