@@ -1,0 +1,2721 @@
+$VAR1 = [
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#FILE:                       ',
+                     '_Value' => '#FILE:                       ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Char_N2_reground_2_11_10.dsu    ',
+                     '_Value' => 'Char_N2_reground_2_11_10.dsu    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#FORMAT:                     ',
+                     '_Value' => '#FORMAT:                     ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'NETZSCH5                        ',
+                     '_Value' => 'NETZSCH5                        ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#IDENTITY:                   ',
+                     '_Value' => '#IDENTITY:                   ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Char N2 reground_2_11_10        ',
+                     '_Value' => 'Char N2 reground_2_11_10        ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#DECIMAL:                    ',
+                     '_Value' => '#DECIMAL:                    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'POINT                           ',
+                     '_Value' => 'POINT                           ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#SEPARATOR:                  ',
+                     '_Value' => '#SEPARATOR:                  ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'COMMA                           ',
+                     '_Value' => 'COMMA                           ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#MTYPE:                      ',
+                     '_Value' => '#MTYPE:                      ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'DTA                             ',
+                     '_Value' => 'DTA                             ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#MSUBTYPE:                   ',
+                     '_Value' => '#MSUBTYPE:                   ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '                                ',
+                     '_Value' => '                                ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#INSTRUMENT:                 ',
+                     '_Value' => '#INSTRUMENT:                 ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'NETZSCH STA 449 C               ',
+                     '_Value' => 'NETZSCH STA 449 C               ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#PROJECT:                    ',
+                     '_Value' => '#PROJECT:                    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Torrefaction                    ',
+                     '_Value' => 'Torrefaction                    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#DATE/TIME:                  ',
+                     '_Value' => '#DATE/TIME:                  ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '40220.398587963',
+                     '_Value' => '40220.40',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#CORR. FILE:                 ',
+                     '_Value' => '#CORR. FILE:                 ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'buoyancy_drying_13_10_10.bsu    ',
+                     '_Value' => 'buoyancy_drying_13_10_10.bsu    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#LABORATORY:                 ',
+                     '_Value' => '#LABORATORY:                 ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Sustainable Research Energ      ',
+                     '_Value' => 'Sustainable Research Energ      ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#OPERATOR:                   ',
+                     '_Value' => '#OPERATOR:                   ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'A Saddawi                       ',
+                     '_Value' => 'A Saddawi                       ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#REMARK:                     ',
+                     '_Value' => '#REMARK:                     ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '                                ',
+                     '_Value' => '                                ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#SAMPLE:                     ',
+                     '_Value' => '#SAMPLE:                     ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'nonisoth oxid with init drying  ',
+                     '_Value' => 'nonisoth oxid with init drying  ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#SAMPLE MASS /mg:            ',
+                     '_Value' => '#SAMPLE MASS /mg:            ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '10.42',
+                     '_Value' => '10.42',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#MATERIAL:                   ',
+                     '_Value' => '#MATERIAL:                   ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'char                            ',
+                     '_Value' => 'char                            ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#REFERENCE:                  ',
+                     '_Value' => '#REFERENCE:                  ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Alumina                         ',
+                     '_Value' => 'Alumina                         ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#REFERENCE MASS /mg:         ',
+                     '_Value' => '#REFERENCE MASS /mg:         ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0',
+                     '_Value' => '0',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#TYPE OF CRUCIBLE:           ',
+                     '_Value' => '#TYPE OF CRUCIBLE:           ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'DTA/TG crucible Al2O3           ',
+                     '_Value' => 'DTA/TG crucible Al2O3           ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#SAMPLE CRUCIBLE MASS /mg:   ',
+                     '_Value' => '#SAMPLE CRUCIBLE MASS /mg:   ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0',
+                     '_Value' => '0',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#REFERENCE CRUCIBLE MASS /mg:',
+                     '_Value' => '#REFERENCE CRUCIBLE MASS /mg:',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0',
+                     '_Value' => '0',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#CORR. CODE:                 ',
+                     '_Value' => '#CORR. CODE:                 ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '20',
+                     '_Value' => '20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#EXO:                        ',
+                     '_Value' => '#EXO:                        ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-1',
+                     '_Value' => '-1',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#RANGE:                      ',
+                     '_Value' => '#RANGE:                      ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '30.0....900.0/-20.0....10.0K/min',
+                     '_Value' => '30.0....900.0/-20.0....10.0K/min',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '#SEGMENT:                    ',
+                     '_Value' => '#SEGMENT:                    ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'S1-4/4                        ',
+                     '_Value' => 'S1-4/4                        ',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '1/T1',
+                     '_Value' => '1/T1',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '1/T2',
+                     '_Value' => '1/T2',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'below is m moisture',
+                     '_Value' => 'below is m moisture',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '#NAME?',
+                     '_Value' => '#NAME?',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '#NAME?',
+                     '_Value' => '#NAME?',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '#NAME?',
+                     '_Value' => '#NAME?',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '#NAME?',
+                     '_Value' => '#NAME?',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '#NAME?',
+                     '_Value' => '#NAME?',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          undef,
+          [
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => '##Temp./øC',
+                     '_Value' => '##Temp./øC',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Time/min',
+                     '_Value' => 'Time/min',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'DTA/(mW/mg)',
+                     '_Value' => 'DTA/(mW/mg)',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'Mass/%',
+                     '_Value' => 'Mass/%',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Text',
+                     'Val' => 'DTG/(%/min)',
+                     '_Value' => 'DTG/(%/min)',
+                     'Format' => ''
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.216',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0',
+                     '_Value' => '0',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.056296',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '100',
+                     '_Value' => '100',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.13359',
+                     '_Value' => '-0.13',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.216',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.01',
+                     '_Value' => '0.01',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.057636',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.99808',
+                     '_Value' => '100.00',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.15041',
+                     '_Value' => '-0.15',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.216',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.02',
+                     '_Value' => '0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.052274',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.99712',
+                     '_Value' => '100.00',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16723',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.213',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.03',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.054956',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9952',
+                     '_Value' => '100.00',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18406',
+                     '_Value' => '-0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.215',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.04',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.056296',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.99328',
+                     '_Value' => '99.99',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.198',
+                     '_Value' => '-0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.215',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.05',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.062998',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.99136',
+                     '_Value' => '99.99',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.20215',
+                     '_Value' => '-0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.21',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.06',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.058981',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98848',
+                     '_Value' => '99.99',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.19736',
+                     '_Value' => '-0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.07',
+                     '_Value' => '0.07',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.053619',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98656',
+                     '_Value' => '99.99',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18552',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.08',
+                     '_Value' => '0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.050938',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98464',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16906',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.09',
+                     '_Value' => '0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.049595',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98369',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.15235',
+                     '_Value' => '-0.15',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.1',
+                     '_Value' => '0.10',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.057637',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98177',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.13899',
+                     '_Value' => '-0.14',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.213',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.11',
+                     '_Value' => '0.11',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.057637',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.98081',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.1289',
+                     '_Value' => '-0.13',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.12',
+                     '_Value' => '0.12',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.056297',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97985',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.12044',
+                     '_Value' => '-0.12',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.13',
+                     '_Value' => '0.13',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.057641',
+                     '_Value' => '0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97793',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.11345',
+                     '_Value' => '-0.11',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.14',
+                     '_Value' => '0.14',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.049598',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97697',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.10846',
+                     '_Value' => '-0.11',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.15',
+                     '_Value' => '0.15',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.045574',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97697',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.10545',
+                     '_Value' => '-0.11',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.213',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.16',
+                     '_Value' => '0.16',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.053616',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97505',
+                     '_Value' => '99.98',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.10394',
+                     '_Value' => '-0.10',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.213',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.17',
+                     '_Value' => '0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.053616',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97409',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.10255',
+                     '_Value' => '-0.10',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.18',
+                     '_Value' => '0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.048254',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97313',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.099448',
+                     '_Value' => '-0.10',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.19',
+                     '_Value' => '0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.046917',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97217',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.094376',
+                     '_Value' => '-0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.21',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.2',
+                     '_Value' => '0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.048257',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97121',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.088107',
+                     '_Value' => '-0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.21',
+                     '_Value' => '0.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.037534',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.97025',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.081892',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.22',
+                     '_Value' => '0.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.042895',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96929',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.077934',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.209',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.23',
+                     '_Value' => '0.23',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.048257',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96929',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.077543',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.204',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.24',
+                     '_Value' => '0.24',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.045576',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96833',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.079907',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.204',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.25',
+                     '_Value' => '0.25',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.041555',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96737',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.082473',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.26',
+                     '_Value' => '0.26',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040212',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96641',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.082129',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.27',
+                     '_Value' => '0.27',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040212',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96545',
+                     '_Value' => '99.97',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.078706',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.28',
+                     '_Value' => '0.28',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040214',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96449',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.075167',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.209',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.29',
+                     '_Value' => '0.29',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040214',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96449',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.074824',
+                     '_Value' => '-0.07',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.3',
+                     '_Value' => '0.30',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.045576',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96353',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.080575',
+                     '_Value' => '-0.08',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.31',
+                     '_Value' => '0.31',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.045576',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96257',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.092795',
+                     '_Value' => '-0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.32',
+                     '_Value' => '0.32',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.045576',
+                     '_Value' => '0.05',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96257',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.10804',
+                     '_Value' => '-0.11',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.33',
+                     '_Value' => '0.33',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.041555',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.96065',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.122',
+                     '_Value' => '-0.12',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.204',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.34',
+                     '_Value' => '0.34',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040214',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95873',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.13288',
+                     '_Value' => '-0.13',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.198',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.35',
+                     '_Value' => '0.35',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040215',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95777',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.14105',
+                     '_Value' => '-0.14',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.198',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.36',
+                     '_Value' => '0.36',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95681',
+                     '_Value' => '99.96',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.14834',
+                     '_Value' => '-0.15',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.37',
+                     '_Value' => '0.37',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95489',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.15751',
+                     '_Value' => '-0.16',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.38',
+                     '_Value' => '0.38',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95298',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16908',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.39',
+                     '_Value' => '0.39',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.038874',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.95202',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18075',
+                     '_Value' => '-0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.2',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.4',
+                     '_Value' => '0.40',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9501',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.1895',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.2',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.41',
+                     '_Value' => '0.41',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.034852',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.94722',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.19258',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.42',
+                     '_Value' => '0.42',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.033512',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9453',
+                     '_Value' => '99.95',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18993',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.43',
+                     '_Value' => '0.43',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.034853',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.94338',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18483',
+                     '_Value' => '-0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.44',
+                     '_Value' => '0.44',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.94242',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18009',
+                     '_Value' => '-0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.45',
+                     '_Value' => '0.45',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.030831',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9405',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.17636',
+                     '_Value' => '-0.18',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.2',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.46',
+                     '_Value' => '0.46',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.029491',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.93762',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.17348',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.198',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.47',
+                     '_Value' => '0.47',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.033512',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.93666',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.17089',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.197',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.48',
+                     '_Value' => '0.48',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.029491',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9357',
+                     '_Value' => '99.94',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16846',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.197',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.49',
+                     '_Value' => '0.49',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.02681',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.93282',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16557',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.195',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.5',
+                     '_Value' => '0.50',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.029491',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.93186',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.15893',
+                     '_Value' => '-0.16',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.197',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.51',
+                     '_Value' => '0.51',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.032172',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92994',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.14461',
+                     '_Value' => '-0.14',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.52',
+                     '_Value' => '0.52',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.038874',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92802',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.12176',
+                     '_Value' => '-0.12',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.198',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.53',
+                     '_Value' => '0.53',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.040215',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92706',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.092786',
+                     '_Value' => '-0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.197',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.54',
+                     '_Value' => '0.54',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.037534',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.062241',
+                     '_Value' => '-0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.55',
+                     '_Value' => '0.55',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.037534',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.036022',
+                     '_Value' => '-0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.56',
+                     '_Value' => '0.56',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.036193',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.017905',
+                     '_Value' => '-0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.57',
+                     '_Value' => '0.57',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.02815',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.0084732',
+                     '_Value' => '-0.01',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.201',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.58',
+                     '_Value' => '0.58',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.037534',
+                     '_Value' => '0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.00688',
+                     '_Value' => '-0.01',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.204',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.59',
+                     '_Value' => '0.59',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.034853',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.011928',
+                     '_Value' => '-0.01',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.6',
+                     '_Value' => '0.60',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.032172',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.02255',
+                     '_Value' => '-0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.203',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.61',
+                     '_Value' => '0.61',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.02681',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.9261',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.038708',
+                     '_Value' => '-0.04',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.204',
+                     '_Value' => '32.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.62',
+                     '_Value' => '0.62',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.025469',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92514',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.060354',
+                     '_Value' => '-0.06',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.206',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.63',
+                     '_Value' => '0.63',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.030831',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92514',
+                     '_Value' => '99.93',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.086474',
+                     '_Value' => '-0.09',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.64',
+                     '_Value' => '0.64',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.028148',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92418',
+                     '_Value' => '99.92',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.11534',
+                     '_Value' => '-0.12',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.212',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.65',
+                     '_Value' => '0.65',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.025468',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92226',
+                     '_Value' => '99.92',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.1438',
+                     '_Value' => '-0.14',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.207',
+                     '_Value' => '32.21',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.66',
+                     '_Value' => '0.66',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.024129',
+                     '_Value' => '0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.92131',
+                     '_Value' => '99.92',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.16902',
+                     '_Value' => '-0.17',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.218',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.67',
+                     '_Value' => '0.67',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.024126',
+                     '_Value' => '0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.91843',
+                     '_Value' => '99.92',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18819',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.219',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.68',
+                     '_Value' => '0.68',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.021446',
+                     '_Value' => '0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.91747',
+                     '_Value' => '99.92',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.19859',
+                     '_Value' => '-0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.216',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.69',
+                     '_Value' => '0.69',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.022786',
+                     '_Value' => '0.02',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.91459',
+                     '_Value' => '99.91',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.19861',
+                     '_Value' => '-0.20',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ],
+          [
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '32.224',
+                     '_Value' => '32.22',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.7',
+                     '_Value' => '0.70',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '0.028147',
+                     '_Value' => '0.03',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '99.91171',
+                     '_Value' => '99.91',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' ),
+            bless( {
+                     'Type' => 'Numeric',
+                     'Val' => '-0.18933',
+                     '_Value' => '-0.19',
+                     'Format' => undef
+                   }, 'Spreadsheet::ParseExcel::Cell' )
+          ]
+        ];
