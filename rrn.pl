@@ -52,6 +52,8 @@ return @nc;
 my @nc = ();
 sub doto{
 	my @rns = @_;
+	my $mmoist = pop @rns;
+	my $mash = pop @rns;
 	my @oa = ();
 	my $i = 0;
 	my ($s, $e) = ($rns[0], $rns[-1]);
@@ -62,17 +64,17 @@ sub doto{
 #	print $nc[0]->[$e], " ",  $nc[3]->[$e], " ", $nc[1]->[$e], " $e\n";
 	$lf->setData(\@ts, \@ms);
 	my @r = $lf->coefficients();
-	return $r[1] / average(@ms);
+	return -($r[1] / (average(@ms) - $mmoist - $mash));
 }
-sub cash{
+#sub cash{
 #	my @rns = @_;
 #	return average(@{$nc[3]}[$_[0]..$_[-1]]);
-	
-}
-sub cmoist{
-	my $sm = $nc[3]->[0];
-	return $sm - average(@{$nc[3]}[$_[0]..$_[-1]]);
-}
+#	
+#}
+#sub cmoist{
+#	my $sm = $nc[3]->[0];
+#	return $sm - average(@{$nc[3]}[$_[0]..$_[-1]]);
+#}
 my %out = ();
 print ",", join(",", @fn), "\n";
 my @column = ("Mass", "% Ash", "% Moisture", @ns); #15, 1
@@ -86,31 +88,6 @@ my $mass = pop @nc;
 #my $l = scalar(@tmpa);
 #@nc = @tmpa[27..$l];
 my $k = 3;
-foreach(@ns){
-	my @avg = ();
-	my $i = 0;
-	my $f = 0;
-	foreach my $c (@{$nc[0]}){
-		unless(looks_like_number($c)){
-			$i++;
-			next;
-		}
-		if($c > $_-2 && $c < $_+2){
-			$f = 1;
-			push @avg, $i;
-		}elsif($f == 1){
-			last;
-		}
-		$i++;
-	}
-
-
-#	print "$_: ", doto(@avg), "\n" unless(@avg == 0);
-	my $d = doto(@avg);
-	$column[$k] .= ",$d";
-
-	$k++;
-}
 my $i = 0;
 my $fv = "";
 my @ash = ();
@@ -139,6 +116,32 @@ foreach my $c (@{$nc[0]}){
 }
 my $a = average(@ash);
 my $m = $nc[3]->[$fv] - average(@moist);
+foreach(@ns){
+	my @avg = ();
+	my $i = 0;
+	my $f = 0;
+	foreach my $c (@{$nc[0]}){
+		unless(looks_like_number($c)){
+			$i++;
+			next;
+		}
+		if($c > $_-2 && $c < $_+2){
+			$f = 1;
+			push @avg, $i;
+		}elsif($f == 1){
+			last;
+		}
+		$i++;
+	}
+
+
+#	print "$_: ", doto(@avg), "\n" unless(@avg == 0);
+	my $d = doto(@avg, $m, $a);
+	$column[$k] .= ",$d";
+
+	$k++;
+}
+
 #my $mass = $nc[1]->[15];
 $column[0] .= ",$mass";
 $column[1] .= ",$a";
