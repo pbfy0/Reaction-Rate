@@ -70,13 +70,13 @@ sub cmoist{
 }
 my %out = ();
 print ",", join(",", @fn), "\n";
-my @column = ("%ASH", "%MOISTURE", @ns);
+my @column = ("Mass", "% Ash", "% Moisture", @ns); #15, 1
 my ($tminash, $tmaxash, $tminmoist, $tmaxmoist) = (640, 700, 98, 102);
 my ($timminash, $timmaxash, $timminmoist, $timmaxmoist) = (60, 107, 10, 40);
 foreach my $cfn(@fn){
 #print "$cfn | ";
 @nc = cellsf($cfn);
-my $k = 2;
+my $k = 3;
 foreach(@ns){
 	my @avg = ();
 	my $i = 0;
@@ -106,7 +106,7 @@ my $i = 0;
 my $fv = "";
 my @ash = ();
 my @moist = ();
-my ($a, $m) = (0, 0);
+#my ($a, $m) = (0, 0);
 foreach my $c (@{$nc[0]}){
 	my $tim = $nc[1]->[$i];
 	#print "$tim ";
@@ -117,24 +117,23 @@ foreach my $c (@{$nc[0]}){
 	$fv = $i unless($fv);
 #	print "Here ";
 #	my $tim = $nc[1]->[$i];
-	if($c > $tminash && $c < $tmaxash && $tim > $timminash && $tim < $timmaxash && $a != 2){
-		$a = 1;
+	print STDERR "$c $tim ",   $nc[3]->[$i], " $i\n";
+	if($c > $tminash && $c < $tmaxash && $tim > $timminash && $tim < $timmaxash){
+#		$a = 1;
 		push @ash, $nc[3]->[$i];
-	}elsif($a == 1){
-		$a = 2;
 	}
-	if($c > $tminmoist && $c < $tmaxmoist && $tim > $timminmoist && $tim < $timmaxmoist && $m != 2){
-                       $m = 1;
+	if($c > $tminmoist && $c < $tmaxmoist && $tim > $timminmoist && $tim < $timmaxmoist){
+#                       $m = 1;
                        push @moist, $nc[3]->[$i];
-               }elsif($m == 1){
-                       $m = 2;
-               }
+        }
 	$i++;
 }
-$a = average(@ash);
-$m = $nc[3]->[$fv] - average(@moist);
-$column[0] .= ",$a";
-$column[1] .= ",$m";
+my $a = average(@ash);
+my $m = $nc[3]->[$fv] - average(@moist);
+my $mass = $nc[1]->[15];
+$column[0] .= ",$mass";
+$column[1] .= ",$a";
+$column[2] .= ",$m";
 @ash = @moist = ();
 }
 print join("\n", @column), "\n";
