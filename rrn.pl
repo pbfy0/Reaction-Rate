@@ -31,6 +31,9 @@ chomp(@fn);
 sub cellsf{
 my $parser = Text::CSV::Simple->new;
 my @cells = $parser->read_file($_[0]);
+my $rv = $cells[15]->[1];
+my $l = scalar(@cells);
+@cells = @cells[27..$l];
 my @nc = ();
 #@ns = (400);
 #sub transpose{
@@ -42,6 +45,8 @@ foreach(@cells){
 		$i++;
 	}
 }
+push @nc, $rv;
+#return @[@nc, $rv];
 return @nc;
 }
 my @nc = ();
@@ -76,6 +81,10 @@ my ($timminash, $timmaxash, $timminmoist, $timmaxmoist) = (60, 107, 10, 40);
 foreach my $cfn(@fn){
 #print "$cfn | ";
 @nc = cellsf($cfn);
+my $mass = pop @nc;
+#my $mass = $nc[1]->[15];
+#my $l = scalar(@tmpa);
+#@nc = @tmpa[27..$l];
 my $k = 3;
 foreach(@ns){
 	my @avg = ();
@@ -130,7 +139,7 @@ foreach my $c (@{$nc[0]}){
 }
 my $a = average(@ash);
 my $m = $nc[3]->[$fv] - average(@moist);
-my $mass = $nc[1]->[15];
+#my $mass = $nc[1]->[15];
 $column[0] .= ",$mass";
 $column[1] .= ",$a";
 $column[2] .= ",$m";
