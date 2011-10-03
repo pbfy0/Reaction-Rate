@@ -62,7 +62,7 @@ sub doto{
 #	print $nc[0]->[$e], " ",  $nc[3]->[$e], " ", $nc[1]->[$e], " $e\n";
 	$lf->setData(\@ts, \@ms);
 	my @r = $lf->coefficients();
-	return $r[1];
+	return $r[1] / average(@ms);
 }
 sub cash{
 #	my @rns = @_;
@@ -126,7 +126,7 @@ foreach my $c (@{$nc[0]}){
 	$fv = $i unless($fv);
 #	print "Here ";
 #	my $tim = $nc[1]->[$i];
-	print STDERR "$c $tim ",   $nc[3]->[$i], " $i\n";
+#	print STDERR "$c $tim ",   $nc[3]->[$i], " $i\n";
 	if($c > $tminash && $c < $tmaxash && $tim > $timminash && $tim < $timmaxash){
 #		$a = 1;
 		push @ash, $nc[3]->[$i];
